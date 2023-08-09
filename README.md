@@ -1,3 +1,7 @@
+![image](https://github.com/SrSebax/clone-EpicGames/assets/111817271/f6349b0f-ff3c-42ff-bc5a-93b219bf5ab3)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
