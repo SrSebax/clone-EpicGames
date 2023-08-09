@@ -1,8 +1,8 @@
-# My Design Clone:
+# My Design:
 ![image](https://github.com/SrSebax/clone-EpicGames/assets/111817271/f6349b0f-ff3c-42ff-bc5a-93b219bf5ab3)
 ![image](https://github.com/SrSebax/clone-EpicGames/assets/111817271/7e5388ce-a4af-4a9a-a6cb-7a03c1475199)
 
-# Original
+# Original:
 ![image](https://github.com/SrSebax/clone-EpicGames/assets/111817271/e5d63858-46d6-4d53-89c3-5161338d86e7)
 ![image](https://github.com/SrSebax/clone-EpicGames/assets/111817271/72d7d668-30ca-42c0-a1bd-757742752a06)
 
